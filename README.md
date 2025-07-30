@@ -92,4 +92,8 @@ confusion_matrix, classification_report – For deeper insight into model result
 Student Name: Kunal Ashok Wandhare
 Institution: St. Vincent Pallotti College of Engineering & Technology
 Branch: Computer Engineering (CE)
+<<<<<<< HEAD
 AICTE Internship Student Registration ID: STU65013c582c8881694579800
+=======
+AICTE Internship Student Registration ID: STU65013c582c8881694579800
+>>>>>>> 5b9552c91bb644d950c57b9b2e8deb95408df28f
