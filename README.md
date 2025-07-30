@@ -16,10 +16,9 @@ Due to some issues with my personal GitHub account, I have used my friend’s ac
   [05] After uploading copy path and put  [.read_csv() ] with the appropriate link.
   [06] Run Each Code Cell Sequentially
   [07] Click on a code cell and press Shift + Enter to run it.
-
-Proceed from data preprocessing to visualization, model training, and evaluation step-by-step.
-Review Outputs and Visualizations
-Check each cell’s output to ensure data was loaded and models are working correctly.
+  [08] Proceed from data preprocessing to visualization, model training, and evaluation step-by-step.
+  [09] Review Outputs and Visualizations
+  [10] Check each cell’s output to ensure data was loaded and models are working correctly.
 
 # Technologies Used
 - Python – Core programming language used for all stages of the project.
