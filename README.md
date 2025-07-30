@@ -8,17 +8,16 @@ Due to some issues with my personal GitHub account, I have used my friend’s ac
 - AICTE Internship Student Registration ID: STU65013c582c8881694579800
 -------------------------------------------------------------------------------------------------------------------------------------------
 # How to Use the Google Colab Notebook (Step-by-Step):
-  [01] Open the Notebook in Google Colab
-  [02] Click on the notebook file link (from GitHub or Google Drive).
-  [03] Choose “Open in Colab” to launch the notebook in your browser.
-  [04] Upload or Load the Dataset:
-       upload it using: left side option -> choose the table to content -> files -> upload option -> select the csv file Adult_Dataset.csv 
-  [05] After uploading copy path and put  [.read_csv() ] with the appropriate link.
-  [06] Run Each Code Cell Sequentially
-  [07] Click on a code cell and press Shift + Enter to run it.
-  [08] Proceed from data preprocessing to visualization, model training, and evaluation step-by-step.
-  [09] Review Outputs and Visualizations
-  [10] Check each cell’s output to ensure data was loaded and models are working correctly.
+  1. Open the Notebook in Google Colab
+  2. Click on the notebook file link (from GitHub or Google Drive).
+  3. Choose “Open in Colab” to launch the notebook in your browser.
+  4. Upload or Load the Dataset: upload it using: left side option -> choose the table to content -> files -> upload option -> select the csv file Adult_Dataset.csv
+  5. After uploading copy path and put  [.read_csv() ] with the appropriate link.
+  6. Run Each Code Cell Sequentially
+  7. Click on a code cell and press Shift + Enter to run it.
+  8. Proceed from data preprocessing to visualization, model training, and evaluation step-by-step.
+  9. Review Outputs and Visualizations
+  10. Check each cell’s output to ensure data was loaded and models are working correctly.
 
 # Technologies Used
 - Python – Core programming language used for all stages of the project.
